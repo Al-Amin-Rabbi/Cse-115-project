@@ -1,0 +1,15 @@
+Tamim Iqbal 33 78.55 7826 0 36.74
+Shakib Al-Hasan 35 82.25 6755 285 37.73
+Mashrafe Mortaza 38 87.76 1787 270 13.75
+Mahmudullah Riyad 36 76.80 4562 81 34.56
+Taskin Ahmed 27 42.54 77 67 5.13 
+Sabbir Rahman 30 91.23 1333 3 21.63 
+Mustafizur Rahman 26 54.66 82 131 6.83
+Mehedi Hasan 24 75.00 570 64 19.00
+Soumya Sarkar 29 97.35 1768 11 32.14
+Litton Das 27 88.83 1671 0 33.42 
+Mushfiqur Rahman 34 78.96 6697 0 36.79
+Mohammad Mithun 31 77.52 714 0 27.46
+Mohammad Saifuddin 25 85.78 362 41 36.20
+Afif Hossain 22 91.05 346 3 43.25
+Mosaddek Hossain 26 84.12 620 14 25.83
